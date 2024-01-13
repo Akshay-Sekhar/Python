@@ -1,0 +1,7 @@
+print() To display message in console
+
+input() To read a message from console
+
+*tyoe() To return data type of object
+
+range(start,end,step) 

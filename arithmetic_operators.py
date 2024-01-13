@@ -1,0 +1,16 @@
+num1=10
+num2=5
+add_res=num1+num2
+print(f"additional_result={add_res}")
+sub_res=num1-num2
+print(f"subtraction_result={sub_res}")
+multipication_res=num1*num2
+print(f"multiplication_result={multipication_res}")
+division_res=num1/num2
+print(f"division_result={division_res}")
+mod_res=num1%num2
+print(f"modulo_result={mod_res}")
+exponent_res=num1**num2
+print(f"exponenmt_resulr={exponent_res}")
+floor_res=num1//num2
+print(f"floor_result={floor_res}")
